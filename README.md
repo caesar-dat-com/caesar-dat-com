@@ -4,9 +4,16 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caesar-dat-com&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caesar-dat-com&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <br clear="both">
 
-<img align="right" height="150" src="https://media.giphy.com/media/IaW2sIHyOKLkb1dRpi/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/XZtTVhwfgY6DxCPsvh/giphy.gif"  />
 
 ###
 
@@ -36,5 +43,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/caesar-dat-com/caesar-dat-com/output/snake.svg" alt="Snake animation" />
 
 ###
