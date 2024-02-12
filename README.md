@@ -44,3 +44,10 @@
   </a>
 </div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/caesar-dat-com/caesar-dat-com/output/snake.svg" alt="Snake animation" />
+
+###
