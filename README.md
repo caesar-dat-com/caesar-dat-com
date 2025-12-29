@@ -1,53 +1,63 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Cesar, and I'm from Colombia. I'm passionate about programming, and currently, my hobby is focused on data engineering and artificial intelligence.</h2>
+<h1 align="center">👨‍🎤 Cyberpunk SCARLET for Windows Terminal</h1>
 
-###
+<p align="center">
+  A neon-drenched cyberpunk theme with SCARLET accents for Windows Terminal.
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caesar-dat-com&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caesar-dat-com&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <strong>Preview:</strong> screenshot of terminal presenting colors and borg cowsay saying “Hello!”
+</p>
 
-###
+---
 
-<br clear="both">
+## Profile settings (as in the screenshot)
 
-<img align="right" height="150" src="https://media.giphy.com/media/XZtTVhwfgY6DxCPsvh/giphy.gif"  />
+```json
+{
+  "colorScheme": "Cyberpunk SCARLET",
+  "cursorHeight": 25,
+  "cursorShape": "vintage",
+  "fontFace": "Fira Code",
+  "fontSize": 12
+}
+```
 
-###
+## 🔌 Installation
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="35" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="35" alt="photoshop logo"  />
-</div>
+1. Copy-paste the scheme into the `schemes` section of your Windows Terminal `profiles.json` settings.  
+   (Open with <kbd>Ctrl</kbd> + <kbd>,</kbd>.)
+2. Add `"colorScheme": "Cyberpunk SCARLET"` in a profile.
 
-###
+## 🙏 Credits
 
-<div align="left">
-  <a href="https://www.instagram.com/caesar__palace/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/cesar-reyes-8a60622b2/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+Colors stolen by netrunners from the Cyberpurelnk theme for Visual Studio Code.
 
-###
+---
 
-<br clear="both">
+## scheme.json
 
-<img src="https://raw.githubusercontent.com/caesar-dat-com/caesar-dat-com/output/snake.svg" alt="Snake animation" />
-
-###
+```json
+{
+  "background": "#000807",
+  "black": "#65737e",
+  "blue": "#00a2ff",
+  "brightBlack": "#eeffff",
+  "brightBlue": "#2088ff",
+  "brightCyan": "#89ddff",
+  "brightGreen": "#00ff9c",
+  "brightPurple": "#b700ff",
+  "brightRed": "#ff0059",
+  "brightWhite": "#eeffff",
+  "brightYellow": "#fffc58",
+  "cyan": "#00c3ff",
+  "foreground": "#ff3270",
+  "green": "#9dff00",
+  "name": "Cyberpunk SCARLET",
+  "purple": "#a200ff",
+  "red": "#ff0000",
+  "white": "#ffffff",
+  "yellow": "#ffff00"
+}
+```
