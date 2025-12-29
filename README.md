@@ -6,6 +6,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&color=FF3270&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B+I'm+Cesar.;I+build+data+pipelines+and+AI+things.;Python+%E2%80%A2+SQL+%E2%80%A2+Automation+%E2%80%A2+ML;Night+mode%3A+ON+%E2%9A%A1" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=800&color=89DDFF&center=true&vCenter=true&width=820&lines=GLITCH+MODE%3A+ACTIVATED;Neon+signals+stabilized...;Cyberpunk+SCARLET+palette+loaded" alt="glitch typing" />
 </div>
 
 <br clear="both">
@@ -15,6 +16,7 @@
   <img src="https://img.shields.io/badge/FOCUS-Data%20Engineering-00ff9c?style=for-the-badge&labelColor=000807" alt="focus" />
   <img src="https://img.shields.io/badge/BUILDING-AI%20%26%20Automation-00c3ff?style=for-the-badge&labelColor=000807" alt="building" />
   <img src="https://img.shields.io/badge/STYLE-CYBERPUNK%20SCARLET-b700ff?style=for-the-badge&labelColor=000807" alt="style" />
+  <img src="https://img.shields.io/badge/GLITCH-ON-fffc58?style=for-the-badge&labelColor=000807" alt="glitch" />
 </div>
 
 <br clear="both">
@@ -44,6 +46,34 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,nodejs,react,git,github,linux,docker,postgres,mongodb,arduino&theme=dark" alt="skills" />
 </div>
+
+<br clear="both">
+
+### 🎨 Cyberpunk SCARLET palette
+
+```json
+{
+  "background": "#000807",
+  "black": "#65737e",
+  "blue": "#00a2ff",
+  "brightBlack": "#eeffff",
+  "brightBlue": "#2088ff",
+  "brightCyan": "#89ddff",
+  "brightGreen": "#00ff9c",
+  "brightPurple": "#b700ff",
+  "brightRed": "#ff0059",
+  "brightWhite": "#eeffff",
+  "brightYellow": "#fffc58",
+  "cyan": "#00c3ff",
+  "foreground": "#ff3270",
+  "green": "#9dff00",
+  "name": "Cyberpunk SCARLET",
+  "purple": "#a200ff",
+  "red": "#ff0000",
+  "white": "#ffffff",
+  "yellow": "#ffff00"
+}
+```
 
 <br clear="both">
 
