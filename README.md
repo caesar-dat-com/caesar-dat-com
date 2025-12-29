@@ -51,29 +51,15 @@
 
 ### 🎨 Cyberpunk SCARLET palette
 
-```json
-{
-  "background": "#000807",
-  "black": "#65737e",
-  "blue": "#00a2ff",
-  "brightBlack": "#eeffff",
-  "brightBlue": "#2088ff",
-  "brightCyan": "#89ddff",
-  "brightGreen": "#00ff9c",
-  "brightPurple": "#b700ff",
-  "brightRed": "#ff0059",
-  "brightWhite": "#eeffff",
-  "brightYellow": "#fffc58",
-  "cyan": "#00c3ff",
-  "foreground": "#ff3270",
-  "green": "#9dff00",
-  "name": "Cyberpunk SCARLET",
-  "purple": "#a200ff",
-  "red": "#ff0000",
-  "white": "#ffffff",
-  "yellow": "#ffff00"
-}
-```
+<div align="center">
+  <img src="https://img.shields.io/badge/Background-000807?style=for-the-badge&labelColor=000807" alt="background" />
+  <img src="https://img.shields.io/badge/SCARLET-ff0059?style=for-the-badge&labelColor=000807" alt="scarlet" />
+  <img src="https://img.shields.io/badge/Cyan-00c3ff?style=for-the-badge&labelColor=000807" alt="cyan" />
+  <img src="https://img.shields.io/badge/Neon%20Blue-00a2ff?style=for-the-badge&labelColor=000807" alt="neon blue" />
+  <img src="https://img.shields.io/badge/Neon%20Green-00ff9c?style=for-the-badge&labelColor=000807" alt="neon green" />
+  <img src="https://img.shields.io/badge/Glitch%20Yellow-fffc58?style=for-the-badge&labelColor=000807" alt="glitch yellow" />
+  <img src="https://img.shields.io/badge/Purple-b700ff?style=for-the-badge&labelColor=000807" alt="purple" />
+</div>
 
 <br clear="both">
 
