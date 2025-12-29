@@ -63,6 +63,26 @@
 
 <br clear="both">
 
+### 🖥️ Terminal glitch HUD
+
+<div align="center">
+  <img src="https://img.shields.io/badge/BOOT-OK-00ff9c?style=for-the-badge&labelColor=000807" alt="boot ok" />
+  <img src="https://img.shields.io/badge/SIGNAL-STABLE-00c3ff?style=for-the-badge&labelColor=000807" alt="signal stable" />
+  <img src="https://img.shields.io/badge/NETRUN-ff0059?style=for-the-badge&labelColor=000807" alt="netrun" />
+  <img src="https://img.shields.io/badge/GLITCH-ON-fffc58?style=for-the-badge&labelColor=000807" alt="glitch on" />
+</div>
+
+<pre>
+[ NIGHT-CITY // PROFILE ] ████████████████████████████████████████
+NAME: CESAR REYES
+ROLE: DATA ENGINEERING ⚙️  |  AI 🤖  |  COLOMBIA 🇨🇴
+STACK: PY • SQL • AUTOMATION • ML
+MODE: NEON ACTIVE  //  SIGNAL: STABLE
+GLITCH: ░▒▓▓▓▓▓▒░  SCARLET CORE ENGAGED
+</pre>
+
+<br clear="both">
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=caesar-dat-com&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
 </div>
