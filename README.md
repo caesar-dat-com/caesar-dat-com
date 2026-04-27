@@ -1,39 +1,25 @@
-<div align="center">
-
-# César Reyes
-
-**Data Engineer · AI Developer · Automation**
-
-</div>
-
+---
+agent: Ares
+status: active
+type: project
+last_sync: 2026-04-14
+area: "[[Infraestructura]]"
 ---
 
-Colombian developer focused on data engineering, artificial intelligence, and building tools that automate complex workflows. Currently pursuing a degree in Data Engineering & AI at UAO.
+# caesar-dat-com
 
-I work across the stack — from designing data pipelines and training models to shipping full-stack SaaS applications. I believe in clean code, practical solutions, and letting the work speak for itself.
+Portfolio personal de César Reyes — GitHub Pages.
 
-### Tech Stack
+## Estado
+Desplegado — https://caesar-dat-com.github.io
 
-**Languages:** Python · JavaScript · TypeScript · SQL  
-**Data & AI:** Pandas · PySpark · Scikit-learn · TensorFlow · LangChain  
-**Web:** React · Next.js · Node.js · FastAPI · Supabase  
-**DevOps & Cloud:** Docker · GitHub Actions · Cloudflare · Vercel · Render  
-**Tools:** Git · Arduino · Photoshop
+## Stack
+React 19 + Vite + Tailwind 4 + GSAP + Framer Motion + Three.js + Lenis
 
-### Projects
+## Últimos fixes
+- 2026-04-13: Contadores animados corregidos (GSAP ScrollTrigger en vez de IntersectionObserver)
+- 2026-04-12: LinkedIn URL corregida, botones actualizados
+- Commit: `8089068`
 
-- **[Nyou](https://nyouapp.com)** — SaaS clínico para psicólogos (React, Supabase, MercadoPago)
-- **[Torque](https://torqu3.com)** — Gestión industrial (React, Supabase, Cloudflare Pages)
-- **[caesar-dat-com](https://github.com/caesar-dat-com)** — Perfil y proyectos open source
-
-### Connect
-
-[LinkedIn](https://www.linkedin.com/in/cesar-reyes-8a60622b2/) · [Instagram](https://www.instagram.com/caesar__palace/) · [GitHub](https://github.com/caesar-dat-com)
-
----
-
-<div align="center">
-
-*Building things that work.*
-
-</div>
+## Enlaces
+- [[Infraestructura]] | [[MAPA_MAESTRO]]
